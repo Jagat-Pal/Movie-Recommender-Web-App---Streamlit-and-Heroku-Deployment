@@ -1,0 +1,2 @@
+# Movie-Recommender-Web-App---Streamlit-and-Heroku-Deployment
+The Movie Recommender Web App is a sophisticated recommendation system designed to help movie enthusiasts discover new films tailored to their preferences. Powered by cutting-edge machine learning algorithms, this web application provides personalized movie suggestions to users, making their movie-watching experience more enjoyable and engaging.
